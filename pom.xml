@@ -78,6 +78,13 @@
 		</dependency>
 		
 	</dependencies>
+	<distributionManagement>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>fev-Latitude-3420-snapshots</name>
+        <url>http://localhost:8081/artifactory/java_project6-libs-snapshot-local</url>
+    </snapshotRepository>
+</distributionManagement>
 
 	<build>
 		<plugins>
