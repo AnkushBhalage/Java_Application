@@ -124,7 +124,7 @@
             <version>2.19</version>
         </plugin>
 		</plugins>
-		<filename>mongodemo</filename>
+		
 	</build>
 
 </project>
